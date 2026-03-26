@@ -1,1 +1,2 @@
-### Aim of the experiment
+To apply the NOT gate logic in an application to indicate that the fuel level in a tank has reached the minimum (reserve) level. 
+The user can compute the output of a given circuit with the help of a generalized simulator. The user will be able to construct, simulate and verify the output of the fuel level application.

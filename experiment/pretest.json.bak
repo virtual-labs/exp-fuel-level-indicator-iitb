@@ -1,0 +1,61 @@
+
+
+  [
+    {
+      "question": "The logical NOT operator is called a___________ operator.",  
+      "qid": 1,
+      
+        "option_a": "Unary",                  
+        "option_b": "Binary",               
+        "option_c": " Quarternary",
+        "option_d":"None of these",
+      
+      
+      "correct_option": "a"                
+    }, {
+      "question": " Which of the following applications involve analog quantities?",  
+      "qid": 2,
+        "option_a": " Temperature of a room",                  
+        "option_b": " Pointer type automobile fuel gauge",               
+        "option_c": " Altitude of an aircraft",
+        "option_d": "All of the above",
+
+       
+      "correct_option": "d"  
+      }, {
+        "question": " Which of the following Boolean expressions is TRUE?",  
+        "qid": 3,
+          "option_a": "X + X'Y = X + Y",                  
+          "option_b": "X' + XY = X' + Y",               
+          "option_c": " (X +XY)' = X'",
+          "option_d":"All of the above",
+  
+      "correct_option": "d"  
+         
+      },
+          {
+            "question": "For the application shown below, when the key is pressed, the output Y takes a value: <br> <img src = 'images/Exp4-q4.png' > ",
+           "qid": 4,
+            
+              "option_a": "Logic 0",                 
+              "option_b": "Logic 1",               
+              "option_c": " High Impedance",
+              "option_d": "No output",
+             
+          "correct_option": "a" 
+            },{
+              "question": "In an application, the output of one NOT gate is connected to the input of a second NOT gate. Determine the level at the 2nd NOT gate output, if input to 1st NOT gate is zero.",  
+              "qid": 5,
+                "option_a": "High",                  
+                "option_b": "Low",               
+                "option_c": " High Impedance",
+                "option_d": " None of these",
+               
+            "correct_option": "b" 
+              } 
+    
+
+
+
+
+  ]
