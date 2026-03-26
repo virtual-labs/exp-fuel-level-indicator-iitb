@@ -1,0 +1,60 @@
+
+[
+    {
+      "question": "For the combination shown below, the Boolean expression for Y is: <br> <img src = 'images/Exp4-1.5.png' > ",
+       "qid": 1,
+     
+        "option_a": " Y = A’. B’",                 
+        "option_b": "Y=AB",                  
+        "option_c": "Y = (A . B)’",                 
+        "option_d": "Y=A+B",                            
+                                      
+     
+      "correct_option": "c"                
+    },
+    {
+      "question": "For the circuit shown below the Boolean expression for the output is expressed as :  <br> <img src = 'images/Exp4-1.6.png' >  ", 
+       "qid": 2, 
+      
+        "option_a": "Y = A + B",                 
+        "option_b": " Y = A . B",                 
+        "option_c": "Y = (A . B)’",                  
+        "option_d": "Y = A’ + B’",                          
+                                      
+     
+      "correct_option": "a"                
+    },
+    {
+      "question": "For the circuit shown below, if a momentary Logic 1 is applied to input A, then the output will be:  <br> <img src = 'images/Exp4-1.7.png' >  ",
+       "qid": 3,
+      
+        "option_a": "0",
+        "option_b": "1",
+        "option_c": "Square wave (Toggling)",
+        "option_d": "None of these",
+      
+      "correct_option": "c"
+    },
+    {
+      "question": "For the circuit shown below, if a momentary Logic 1 is applied to input A, then the output will be:  <br> <img src = 'images/Exp4-1.8.png' >  ",
+       "qid": 4,
+     
+        "option_a": "AND",
+        "option_b": "Bubbled AND",
+        "option_c": "NAND",
+        "option_d": "XOR",
+      
+      "correct_option": "c"
+    },
+    {
+      "question": " The Boolean expression for output Y is:   <br> <img src = 'images/Exp4-1.5.png' >  <br> <img src = 'images/Exp4-1.9.png' > ",
+      "qid": 5,
+      
+        "option_a": " A’. B’",
+        "option_b": "A’ + B’",
+        "option_c": "A+B",
+        "option_d": "AB",
+     
+      "correct_option": "d"
+    }
+  ]
