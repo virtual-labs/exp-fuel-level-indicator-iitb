@@ -1,0 +1,1 @@
+## Basic NOT gate and its application in fuel level indicator
